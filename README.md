@@ -3,6 +3,7 @@
 Sequelize is an easy-to-use and promise-based **Node.js ORM tool**. This is use sequelize with **MySQL** and use **Redis** to create **CRUD** and use **JWT** ( jsonwebtoken ) , **Bcrypt**
  - use **mysql2** for create database before use **sequelize** if not exists database
  - use **sequelize** to connect **MySQL** and **create and sync table**
+ - use **redis** to collect **token** data
  - use **JWT** for generate **refresh token** and **access token** use for representing claims to be transferred between two parties.
  - use **bcrypt** for protect password
 
